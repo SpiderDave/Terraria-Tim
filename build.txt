@@ -1,0 +1,3 @@
+displayName = Terraria Except It Makes That Weird Tim Allen Noise When Monsters Die
+author = SpiderDave
+version = 0.2
